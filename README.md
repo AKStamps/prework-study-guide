@@ -1,2 +1,2 @@
 # prework-study-guide
-## Boot Camp Pre Work Study Guide for Students
+## A study guide website so that I can better track my work and notes during bootcamp
